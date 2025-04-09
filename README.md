@@ -36,7 +36,7 @@ WEAPON DESC: Weapon used (if any)
 
 STATUS DESC: Case resolution status
 
-🧰 Libraries & Tools Used
+🧰 Libraries & Tools Used :-
 pandas – Data manipulation and analysis
 
 numpy – Numerical operations
