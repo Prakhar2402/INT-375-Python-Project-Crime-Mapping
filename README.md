@@ -1,5 +1,6 @@
-# INT-375-Python-Project-Crime-Mapping
-Project Overview :
+
+# INT-375-Python-Project-Crime-Mapping :
+Project Overview
 This project performs Exploratory Data Analysis (EDA) on real-world crime data to uncover meaningful insights and patterns. Using Python libraries like Pandas, Matplotlib, Seaborn, and Folium, the project visualizes:
 
 Temporal crime trends
@@ -14,7 +15,7 @@ Resolution status of cases
 
 These insights aim to support data-driven decisions for public safety and law enforcement resource planning.
 
-📂 Dataset Information
+📂 Dataset Information :-
 Name: Crime Data from 2020 to Present
 
 Source: Data.gov
@@ -36,7 +37,7 @@ WEAPON DESC: Weapon used (if any)
 
 STATUS DESC: Case resolution status
 
-🧰 Libraries & Tools Used
+🧰 Libraries & Tools Used :-
 pandas – Data manipulation and analysis
 
 numpy – Numerical operations
@@ -77,7 +78,6 @@ Most victims aged 20–40
 Slightly more male victims
 
 Affected ethnicities: Hispanic, Black
-
 Visualizations: Histogram, gender/ethnicity bar plots
 
 5️⃣ Resolution Status
@@ -87,7 +87,7 @@ Some crimes like Robbery have low clearance
 
 Visualizations: Donut chart, stacked bar chart
 
-📌 Sample Outputs
+📌 Sample Outputs Which will be displayed
 📈 Temporal Trends
 
 🌍 Heatmaps of Crime Locations
