@@ -88,6 +88,7 @@ Some crimes like Robbery have low clearance
 Visualizations: Donut chart, stacked bar chart
 
 📌 Sample Outputs
+
 📈 Temporal Trends
 
 🌍 Heatmaps of Crime Locations
