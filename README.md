@@ -77,7 +77,6 @@ Most victims aged 20–40
 Slightly more male victims
 
 Affected ethnicities: Hispanic, Black
-
 Visualizations: Histogram, gender/ethnicity bar plots
 
 5️⃣ Resolution Status
