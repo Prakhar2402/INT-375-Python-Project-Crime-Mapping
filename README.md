@@ -1,3 +1,4 @@
+
 # INT-375-Python-Project-Crime-Mapping :
 Project Overview
 This project performs Exploratory Data Analysis (EDA) on real-world crime data to uncover meaningful insights and patterns. Using Python libraries like Pandas, Matplotlib, Seaborn, and Folium, the project visualizes:
