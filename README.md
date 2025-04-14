@@ -47,7 +47,7 @@ folium – Interactive geographic maps
 
 plotly – Advanced, interactive charts
 
-📊 Features & Analysis Performed
+📊 Features & Analysis Performed :
 1️⃣ Crime Distribution and Trends Over Time
 Grouped by year, month, and hour
 
